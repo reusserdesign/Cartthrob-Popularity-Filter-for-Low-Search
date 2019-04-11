@@ -1,4 +1,4 @@
-# Cartthrob-Popularity-Filter-for-Low-Search
+# Cartthrob Popularity Filter for Low Search
 
 ![](https://img.shields.io/badge/ExpressionEngine-5-3784B0.svg)
 
